@@ -1,0 +1,13 @@
+/* TO-DO STYLE */
+/* 1- Grid Container */
+/* 2- Row */
+/* 3- Columns */
+/* 4- Buttons */
+/* 5- Table */
+.content-main {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-left: 30;
+  padding-right: 30;
+}
